@@ -12,7 +12,7 @@ Tools: Used Adobe Illustrator and Canva for the redesign process.
 
 Task 3: Typography PracticeObjective: 
 Focus on font hierarchy and spacing to enhance visual communication.  
-![Uploading Task-3.png…]()
+<img width="2000" height="2000" alt="Task-3" src="https://github.com/user-attachments/assets/e49ae52f-caab-4a9d-ae20-2a9b6dcdc0d6" />
 
 
 

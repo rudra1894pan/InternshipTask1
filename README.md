@@ -1,8 +1,12 @@
+Word file:
+[CODEALPHA.docx](https://github.com/user-attachments/files/29729594/CODEALPHA.docx)
+
+
+
 Task 1: Logo RedesignObjective: 
 Modernize the BCCI logo while maintaining brand identity.  
 Tools: Used Adobe Illustrator and Canva for the redesign process.  
 <img width="2000" height="2000" alt="Board of of Control for Cricket in India" src="https://github.com/user-attachments/assets/41190e37-33f5-4872-99cf-27829506f1d2" />
-[CODEALPHA.docx](https://github.com/user-attachments/files/29729594/CODEALPHA.docx)
 
 
 
